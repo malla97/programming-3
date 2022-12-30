@@ -1,0 +1,33 @@
+[
+  {
+    "suoritetutKurssit": [
+      "Ohjelmointi 1: Johdatus ohjelmointiin",
+      "Ohjelmointi 2: Rakenteet",
+      "Analyysin peruskurssi",
+      "Vektorit ja matriisit",
+      "Differentiaali- ja integraalilaskenta",
+      "Yliopistofysiikka 1",
+      "Yliopistofysiikka 2",
+      "Rakentamistalouden perusteet",
+      "Tietokantojen perusteet",
+      "Statiikan ja dynamiikan perusteet"
+    ],
+    "nimi": "Teemu Teekkari",
+    "vanhatTutkinto-ohjelmat": [
+      "Rakennustekniikan kandidaattiohjelma",
+      "Tieto- ja sähkötekniikan kandidaattiohjelma"
+    ],
+    "tutkinto-ohjelma": "Rakennustekniikan kandidaattiohjelma",
+    "opiskelijanumero": "H123456"
+  },
+  {
+    "nimi": "Tiina Teekkari",
+    "tutkinto-ohjelma": "Tietotekniikan DI-ohjelma",
+    "opiskelijanumero": "H65432"
+  },
+  {
+    "nimi": "matti",
+    "tutkinto-ohjelma": "Filosofian kandidaattiohjelma",
+    "opiskelijanumero": "333222"
+  }
+]
